@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **alihaydar29/alihaydar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm based in Istanbul
+👀 I’m interested in machine learning and deep learning
+
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues" alt="alihaydar29's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css" alt="My Top Langs" />
