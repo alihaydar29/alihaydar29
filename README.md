@@ -1,4 +1,4 @@
-- 👋 Hi, I'm based in Istanbul
+
 - 👀 I’m interested in machine learning and deep learning
 
 <!--
