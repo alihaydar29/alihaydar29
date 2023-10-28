@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 -->
 
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues" alt="alihaydar29's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
