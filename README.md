@@ -1,8 +1,6 @@
 
-- 👀 I’m interested in machine learning and deep learning
-
 <h1 align="center">Hi there 👋, I'm Ali Haydar</h1>
-<h3 align="center">Data & AI Enthusiast | ML Developer | Backend Learner</h3>
+<h3 align="center">Data & AI Enthusiast | ML Developer 👀| Backend Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
