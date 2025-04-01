@@ -11,33 +11,33 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" alt="PyTorch"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/NumPy_logo_2020.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="40" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" height="40" alt="NumPy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" height="50" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/HuggingFace_Logo.png" width="50" height="50" alt="HuggingFace"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/XGBoost_logo.png" width="50" height="50" alt="XGBoost"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="60" height="40" alt="HuggingFace"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50" height="50" alt="XGBoost"/>
 </p>
 
-<!-- 🧰 Workflow / DevOps -->
+<!-- ⚙️ DevOps / Workflow -->
 <h3>⚙️ Workflow / DevOps</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/AirflowLogo.png" width="50" height="50" alt="Airflow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="50" height="50" alt="Airflow"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
 </p>
 
-<!-- 🔗 Languages / Frameworks -->
+<!-- 💻 Programming Languages & Frameworks -->
 <h3>💻 Programming Languages & Frameworks</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50" alt="Flask"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/>
 </p>
 
 <!-- 🗄️ Databases -->
 <h3>🗄️ Databases</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="50" height="50" alt="SQL Server"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="SQL Server"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60" height="40" alt="Oracle"/>
 </p>
 
