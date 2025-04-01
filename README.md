@@ -1,6 +1,18 @@
 
 - 👀 I’m interested in machine learning and deep learning
 
+<h1 align="center">Hi there 👋, I'm Ali Haydar</h1>
+<h3 align="center">Data & AI Enthusiast | ML Developer | Backend Learner</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alihaydar29&label=Profile%20views&color=0e75b6&style=flat" alt="alihaydar29" />
+</p>
+
+
 <h2 align="left">Languages, Libraries and Tools:</h2>
 
 <!-- 🧠 Machine Learning / AI -->
