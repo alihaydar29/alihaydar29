@@ -9,14 +9,18 @@
   <img src="https://komarev.com/ghpvc/?username=alihaydar29&label=Profile%20views&color=0e75b6&style=flat" alt="alihaydar29" />
 </p>
 
-<!-- 📊 GitHub Stats -->
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="340"/>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues&theme=default" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="350"/>
 </div>
 
-<br/>
+---
+
+
 
 <!-- 🚀 Skills Section -->
 <h2 align="left">🚀 Languages, Libraries and Tools:</h2>
