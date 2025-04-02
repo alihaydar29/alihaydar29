@@ -85,7 +85,11 @@
 <!-- 🌐 Networking -->
 <h3>🌐 Networking</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/cisco.png" width="50" height="50" alt="Cisco"/>
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-network-technology-flatart-icons-flat-flatarticons-4.png" width="50" height="50" alt="Networking"/>
+  <!-- Cisco -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="50" height="50" alt="Cisco"/>
+
+  <!-- Networking (generic) -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/network.png" width="50" height="50" alt="Networking"/>
 </p>
+
 
