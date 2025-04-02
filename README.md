@@ -46,6 +46,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="60" height="40" alt="HuggingFace"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50" height="50" alt="XGBoost"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" height="50" alt="Apache Spark"/>
 </p>
 
 <!-- ⚙️ DevOps / Workflow -->
@@ -54,6 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="50" height="50" alt="Airflow"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
 </p>
 
 <!-- 💻 Programming Languages & Frameworks -->
@@ -62,6 +64,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 </p>
 
 <!-- 🗄️ Databases -->
@@ -77,3 +81,11 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" height="50" alt="CSS3"/>
 </p>
+
+<!-- 🌐 Networking -->
+<h3>🌐 Networking</h3>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo.svg" width="60" height="40" alt="Cisco"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Network_icon.svg" width="50" height="50" alt="Networking"/>
+</p>
+
