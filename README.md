@@ -19,7 +19,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues&theme=default" width="400" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="420" />
     </td>
   </tr>
 </table>
