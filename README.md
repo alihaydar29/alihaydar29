@@ -85,7 +85,7 @@
 <!-- 🌐 Networking -->
 <h3>🌐 Networking</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo.svg" width="60" height="40" alt="Cisco"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Network_icon.svg" width="50" height="50" alt="Networking"/>
+  <img src="https://img.icons8.com/color/48/000000/cisco.png" width="50" height="50" alt="Cisco"/>
+  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-network-technology-flatart-icons-flat-flatarticons-4.png" width="50" height="50" alt="Networking"/>
 </p>
 
