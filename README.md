@@ -85,11 +85,7 @@
 <!-- 🌐 Networking -->
 <h3>🌐 Networking</h3>
 <p align="left">
-  <!-- Cisco -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="50" height="50" alt="Cisco"/>
-
-  <!-- Networking (generic) -->
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/network.png" width="50" height="50" alt="Networking"/>
 </p>
 
 
