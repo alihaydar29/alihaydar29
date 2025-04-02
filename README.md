@@ -82,10 +82,5 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" height="50" alt="CSS3"/>
 </p>
 
-<h3>🌐 Networking</h3>
-<p align="left">
-  <img src="https://icons-for-free.com/iconfiles/png/512/cisco-1324440141101133425.png" width="50" height="50" alt="Cisco"/>
-</p>
-
 
 
