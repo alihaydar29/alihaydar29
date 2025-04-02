@@ -13,10 +13,17 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues&theme=default" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="410"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues&theme=default" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="400" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
