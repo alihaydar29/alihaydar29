@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋, I'm Ali Haydar</h1>
 <h3 align="center">Data & AI Enthusiast | ML Developer | Backend Learner</h3>
 
@@ -10,8 +9,17 @@
   <img src="https://komarev.com/ghpvc/?username=alihaydar29&label=Profile%20views&color=0e75b6&style=flat" alt="alihaydar29" />
 </p>
 
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues&theme=default" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css&theme=default" width="340"/>
+</div>
 
-<h2 align="left">Languages, Libraries and Tools:</h2>
+<br/>
+
+<!-- 🚀 Skills Section -->
+<h2 align="left">🚀 Languages, Libraries and Tools:</h2>
 
 <!-- 🧠 Machine Learning / AI -->
 <h3>🧠 Machine Learning / AI</h3>
@@ -58,25 +66,3 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" height="50" alt="CSS3"/>
 </p>
-
-<!--
-**alihaydar29/alihaydar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=alihaydar29&show_icons=true&count_private=true&hide=contribs,issues" alt="alihaydar29's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydar29&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-
-
