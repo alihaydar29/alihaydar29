@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ali Haydar</h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/LFuJkUqMBP8AAAAC/how-to-train-your-dragon-toothless-dragon.gif" width="300" alt="Toothless Guardian"/>
-</p>
-
-
 <h3 align="center">Data & AI Enthusiast | ML Developer | Backend Learner</h3>
 
 <p align="center">
